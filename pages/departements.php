@@ -21,7 +21,7 @@ $result = $conn->query($sql);
 
     <header class="bg-primary text-white p-3">
         <div class="container">
-            <h1 class="h3">📋 Liste des Départements</h1>
+            <h1 class="h3">📋 Listes des Départements</h1>
         </div>
     </header>
 
